@@ -16,6 +16,7 @@
   </picture>
 </h4><br>
 
+<h3 align="center" ><b>Note:</b></h3> <p align="center">This repo is no longer maintained</p>
 <!-- TODO: Add relevant badges, like CI/CD, license, codecov, etc. -->
 
 <p align="center">
